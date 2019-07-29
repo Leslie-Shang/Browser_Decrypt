@@ -15,4 +15,4 @@
 
    Opera：[Opera login information extraction and password decryption](https://www.shangzg.top/c++/technology/Opera-login-information-extraction-and-password-decryption.html)
 
-3. 此项目是针对之前分别对不同浏览器（Chrome，Opera，Firefox）进行用户登录信息解密的三个项目的整理集合，并对之前的代码进行了改进和完善，然后做成了可安装程序。
+3. 此项目是针对之前分别对不同浏览器（Chrome，Opera，Firefox）进行用户登录信息解密的三个项目的整理集合，并对之前的代码进行了改进和完善，然后做成了可安装程序。改进方面及可安装程序实现方法见我的blog[Browser user information Decrypt](https://www.shangzg.top/c++/technology/Browser-user-information-Decrypt.html)
